@@ -1,0 +1,15 @@
+[4mRunning "server" task[24m
+
+[4mRunning "clean:server" (clean) task[24m
+
+[4mRunning "concurrent:server" (concurrent) task[24m
+    
+[4mRunning "coffee:dist" (coffee) task[24m
+    [33mWarning: [4mRunning "compass:server" (compass) task[24m
+[33mWarning: You need to have Ruby and Compass installed and in your system PATH for this task to work. More info: https://github.com/gruntjs/grunt-contrib-compass Use --force to continue.[39m Use --force to continue.[39m
+    
+    [31mAborted due to warnings.[39m
+    
+    [4mElapsed time[24m
+    concurrent:server  5s
+Total              5s
